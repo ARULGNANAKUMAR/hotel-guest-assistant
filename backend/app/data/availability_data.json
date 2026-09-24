@@ -1,0 +1,19 @@
+{
+  "rooms": [
+    {
+      "room_type": "Deluxe Room",
+      "max_adults": 2,
+      "available_rooms": 5
+    },
+    {
+      "room_type": "Family Room",
+      "max_adults": 4,
+      "available_rooms": 3
+    },
+    {
+      "room_type": "Suite",
+      "max_adults": 3,
+      "available_rooms": 2
+    }
+  ]
+}

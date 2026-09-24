@@ -1,0 +1,54 @@
+{
+  "hotel": {
+    "name": "Azure Bay Hotel",
+    "description": "A comfortable city hotel for leisure and business guests."
+  },
+  "check_in": {
+    "time": "2:00 PM",
+    "details": "Check-in is available from 2:00 PM. Early check-in is subject to availability."
+  },
+  "check_out": {
+    "time": "11:00 AM",
+    "details": "Check-out is by 11:00 AM. Late check-out is subject to availability and may incur an additional charge."
+  },
+  "amenities": {
+    "wifi": {
+      "available": true,
+      "details": "Complimentary Wi-Fi is available throughout the hotel, including all guest rooms and common areas."
+    },
+    "pool": {
+      "available": true,
+      "details": "The hotel has an outdoor swimming pool, open daily from 7:00 AM to 9:00 PM."
+    },
+    "parking": {
+      "available": true,
+      "details": "Complimentary on-site parking is available for hotel guests."
+    }
+  },
+  "breakfast": {
+    "available": true,
+    "timings": "7:00 AM to 10:30 AM",
+    "details": "Breakfast is served daily in the hotel restaurant from 7:00 AM to 10:30 AM."
+  },
+  "cancellation_policy": {
+    "summary": "Cancellation policies vary depending on the reservation rate.",
+    "details": "Please check the cancellation terms associated with your selected rate at the time of booking. Some rates may be non-refundable."
+  },
+  "rooms": [
+    {
+      "name": "Deluxe Room",
+      "description": "A comfortable room suitable for leisure or business stays.",
+      "max_adults": 2
+    },
+    {
+      "name": "Family Room",
+      "description": "A larger room suitable for families, with extra space and amenities.",
+      "max_adults": 4
+    },
+    {
+      "name": "Suite",
+      "description": "Spacious accommodation with a separate living area.",
+      "max_adults": 3
+    }
+  ]
+}

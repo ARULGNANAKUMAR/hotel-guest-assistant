@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# Testing (core tests use stdlib unittest + Flask test client)
+# pytest and httpx are the preferred test runners when available:
+# pip install pytest httpx
+# Tests also run with: python3 -m unittest discover -s tests -p "test_*.py" -v
+flask
